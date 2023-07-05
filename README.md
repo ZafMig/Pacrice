@@ -1,1 +1,3 @@
-# Pacrice
+npm install
+
+Сервер запускать - node server.js
